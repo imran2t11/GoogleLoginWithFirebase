@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170233562180",
+    "project_id": "loginwithfirebase-ce588",
+    "storage_bucket": "loginwithfirebase-ce588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170233562180:android:1f4abed4a312f6398e2811",
+        "android_client_info": {
+          "package_name": "com.masterimran.googleloginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170233562180-tn1en4tvv79d2hak2ae4grbet2b9nhp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT3GEnv8qDRkxvvbWfpy4DixhDjsqouEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170233562180-tn1en4tvv79d2hak2ae4grbet2b9nhp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
